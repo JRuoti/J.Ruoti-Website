@@ -7,6 +7,13 @@
     scroll-behavior: smooth;
 }
 
+h2{
+    font-size: 36px;
+    font-family: Work Sans;
+    color: #F25F4C;
+    margin-bottom: 20px;
+
+}
 
 /*-----------------------------HERO------------------------*/
 
@@ -57,7 +64,7 @@ header{
 .logo-text{
     font-size: 45px;
     color: #FFFFFE;
-    font-family: Work Sans ExtraBold 800;
+    font-family: Work Sans;
 }
 
 .logo .logo-text{
@@ -145,17 +152,14 @@ nav .navlinks li a{
 .btn-group .btn{
     border-color: #d5d5d5;
     color:#fff;
-    background-color: #333;
+    background-color: #F25F4C;
     padding: 12px 25px;
     margin: 5px 0px;
     margin-right:7px;
-    border-radius: 30px;
-    border:2px solid #e5e5e5;
+    border-radius: 16px;
     box-shadow:  0 10px 10px -8px rgb(0 0 0 / 78%);
 }
-.btn.active{
-    border-color: #007ced;
-}
+
 
 
 /*-----------------------------TEXT-ANIMATO------------------------*/
@@ -228,7 +232,7 @@ footer a{
         position: fixed;
         top:0;
         right: -100%;
-        z-index: 10px;
+        z-index: 10;
         width: 300px;
         background-color: #0b1132e6;
         box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.2);
