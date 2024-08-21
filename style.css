@@ -153,7 +153,7 @@ nav .navlinks li a{
 
 }
 .btn-group{
-    margin:45px 0;
+    margin:35px 0;
 }
 .btn-group .btn{
     border-color: #d5d5d5;
@@ -164,6 +164,11 @@ nav .navlinks li a{
     margin-right:7px;
     border-radius: 16px;
     box-shadow:  0 10px 10px -8px rgb(0 0 0 / 78%);
+}
+
+
+.copy_hero{
+margin-bottom: -10px;
 }
 
 
