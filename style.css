@@ -290,7 +290,7 @@ footer a{
     justify-content: center;
     background-color: #F25F4C;
     border-radius: 20px;
-    color: #D1D7D5;
+    color: #0F0E17;
     text-decoration: none;
     padding: 0.5rem;
     text-decoration: none;
@@ -304,7 +304,7 @@ footer a{
 .back-to-top:hover span{
     transform: translateY(-4px);
     transition: 0.5s;
-    color: #D1D7D5;
+    color: #FFFFFE;
 }
 
 
@@ -367,7 +367,7 @@ padding: 20px;
     display: inline-block;
     text-decoration: none;
     background-color: #F25F4C;
-    color: #FFFFFE;
+    color: #0F0E17;
     padding: 8px 16px;
     border-radius: 4px;
     margin-right: 5px;
