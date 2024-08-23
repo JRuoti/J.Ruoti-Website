@@ -103,10 +103,19 @@ nav .navlinks{
 nav .navlinks li{
     display: inline-block;
 }
+
+
+
 nav .navlinks li a{
      color:#e5e5e5;
      margin-right: 2.5rem;
 }
+
+
+nav .navlinks li a:hover{
+    color: #F25F4C;
+}
+
 .container {
     display: flex;
     justify-content: space-around;
@@ -175,7 +184,12 @@ margin-bottom: -10px;
 
 /*-----------------------------TEXT-ANIMATO------------------------*/
 
+@media(max-width:900px){
+   .hero_typo_animation{
+    font-size: 22px;
+   }
 
+}
 
 
 
@@ -419,7 +433,7 @@ padding: 20px;
     }
     nav .navlinks li a{
         display: block;
-        margin-bottom: 15px;
+        margin-bottom: 45px;
         text-align: center;
     }
     nav .navlinks.open{
