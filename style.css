@@ -5,6 +5,7 @@
     font-family: Work Sans,sans-serif;
     text-decoration: none;
     scroll-behavior: smooth;
+    background-color: #0F0E17;
 }
 
 h2{
@@ -27,7 +28,6 @@ body{
     overflow-x: hidden;
 }
 .hero-header{
-    min-height: 100vh;
     background:#0F0E17;
     background-size: 300% 300%;
     background-position: center;
@@ -307,7 +307,14 @@ footer a{
     color: #FFFFFE;
 }
 
+.material-symbols-outlined{
+    background-color: #F25F4C;
+}
 
+.material-symbols-outlined:hover{
+    background-color: #f25f4cc0;
+    border-radius: 20px;
+}
 
 
 /* -----------------------CARDS------------------------------------ */
