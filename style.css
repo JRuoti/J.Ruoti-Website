@@ -120,7 +120,7 @@ nav .navlinks li a:hover{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top:4rem;
+    padding:4rem 0 4rem 0;
 }
 .container .hero-pic{
     width: 300px;
@@ -213,6 +213,7 @@ footer p{
 
 footer h2{
     color: #F25F4C;
+    font-size: 24px;
 }
 
 footer a{
@@ -308,13 +309,9 @@ footer a{
 }
 
 .material-symbols-outlined{
-    background-color: #F25F4C;
+    background-color: transparent;
 }
 
-.material-symbols-outlined:hover{
-    background-color: #f25f4cc0;
-    border-radius: 20px;
-}
 
 
 /* -----------------------CARDS------------------------------------ */
