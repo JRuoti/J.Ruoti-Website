@@ -430,10 +430,6 @@ padding: 20px;
         overflow: hidden; 
     }
 
-    nav{
-        overflow-x: hidden;
-    }
-
     nav .navlinks li{
         display: block;
     }
