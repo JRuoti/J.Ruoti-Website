@@ -81,7 +81,7 @@ header{
 nav .togglebtn{
     width: 35px;
     height: 35px;
-    position: absolute;
+    position: fixed;
     top:50px;
     right: 3%;
     z-index: 5;
@@ -123,6 +123,7 @@ nav .navlinks li a:hover{
 nav .navlinks li a.active{
     color: #F25F4C;
 }
+
 
 .container {
     display: flex;
