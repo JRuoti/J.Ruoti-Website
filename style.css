@@ -124,7 +124,12 @@ nav .navlinks li a.active{
     color: #F25F4C;
 }
 
-
+.fixed{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+}
 
 .container {
     display: flex;
