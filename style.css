@@ -253,6 +253,11 @@ footer a{
 }
 
 
+.homefooter{
+    position: fixed;
+    bottom: 0;
+}
+
 
 /*-----------------------------FOOTER-MDQ------------------------*/
 
